@@ -14,7 +14,11 @@ ___________
 
 ### Photos of project:
 ![](public/images/ai-keyword-extractor-1.png)
-
+**Paragraph/text**
+![](public/images/ai-keyword-extractor-2.png)
+**Keywords extracted of paragraph into console**
+![](public/images/ai-keyword-extractor-3.png)
+****
 ### Apps used:
 Sublime Text: [https://www.sublimetext.com/](https://www.sublimetext.com/) 
 
