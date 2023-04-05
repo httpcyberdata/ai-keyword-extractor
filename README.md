@@ -11,6 +11,11 @@ ___________
 2.
 
 ### How to use
+1. clone / download
+2. yarn start
+3. Paste lengthy & informative text into the text box.
+4. Press the 'Extract Keywords' button.
+5. View the keywords
 
 ### Photos of project:
 ![](public/images/ai-keyword-extractor-1.png)

@@ -12,7 +12,7 @@ const App = () => {
   const [keywords, setKeywords] = useState('');
   const [isOpen, setIsOpen] = useState(false);
   const [loading, setLoading] = useState(false);
-
+// 43:16
   const extractKeywords = async (text) => {
     setLoading(true);
     setIsOpen(true);
@@ -50,7 +50,9 @@ const App = () => {
       <Container maxW='3xl' centerContent>
             <Header/> 
             <Footer/>
-            <TextInput extractKeywords={extractKeywords} />
+            <TextInput
+               extractKeywords={extractKeywords} 
+            />
       </Container>
       <KeywordsModal 
         keywords={keywords} 
@@ -64,4 +66,3 @@ const App = () => {
 <h1>
 </h1>
 export default App
-//  26:21
