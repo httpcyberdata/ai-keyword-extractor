@@ -24,6 +24,7 @@ ___________
 **Keywords extracted of paragraph into console**
 ![](public/images/ai-keyword-extractor-3.png)
 ![](public/images/ai-keyword-extractor-4.gif)
+![](public/images/ai-keyword-extractor-5.gif)
 ### Apps used:
 Sublime Text: [https://www.sublimetext.com/](https://www.sublimetext.com/) 
 
